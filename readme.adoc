@@ -11,7 +11,7 @@
 
 = FHA Links
 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3223240/]Dietary Deficiency of Essential Amino Acids Rapidly Induces Cessation of the Rat Estrous Cycle
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3223240/[Dietary Deficiency of Essential Amino Acids Rapidly Induces Cessation of the Rat Estrous Cycle]
 
 https://patentimages.storage.googleapis.com/ca/27/b5/4015d17b2dfa00/US20040171690A1.pdf[USE OF PROTEIN ESSENTIAL
 AMINOACDS TO TREAT AMENORRHEA AND RELATED DSORDERS]

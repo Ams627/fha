@@ -1,0 +1,28 @@
+:toc:
+:sectnums:
+:toclevels: 5
+:sectnumlevels: 5
+:showcomments:
+:xrefstyle: short
+:icons: font
+:source-highlighter: coderay
+:tick: &#x2714;
+:pound: &#xA3;
+
+= FHA Links
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3223240/]Dietary Deficiency of Essential Amino Acids Rapidly Induces Cessation of the Rat Estrous Cycle
+
+https://patentimages.storage.googleapis.com/ca/27/b5/4015d17b2dfa00/US20040171690A1.pdf[USE OF PROTEIN ESSENTIAL
+AMINOACDS TO TREAT AMENORRHEA AND RELATED DSORDERS]
+
+https://pubmed.ncbi.nlm.nih.gov/1763615/[Acetyl-l-carnitine as possible drug in the treatment of hypothalamic amenorrhea]
+
+https://pubmed.ncbi.nlm.nih.gov/20414046/[Acetyl-L-carnitine (ALC) administration positively affects reproductive axis in hypogonadotropic women with functional hypothalamic amenorrhea]
+
+https://www.sciencedirect.com/science/article/abs/pii/S0006291X22010609[Taurine promotes estrogen synthesis by regulating microRNA-7a2 in mice ovarian granulosa cells]
+
+https://pubmed.ncbi.nlm.nih.gov/26133737/[Taurine supplementation preserves hypothalamic leptin action in normal and protein-restricted mice fed on a high-fat diet]
+
+https://www.sciencedirect.com/science/article/pii/S0026049514002340[Leptin treatment: Facts and expectations]
+
